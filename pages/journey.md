@@ -17,7 +17,7 @@ Most reports describe outcomes. Few describe the messy, non-linear process of ge
 ## The timeline
 
 <div class="timeline-item">
-<div class="timeline-date">Month 0</div>
+<div class="timeline-date" markdown="0">Month 0</div>
 
 ### The problem
 
@@ -29,7 +29,7 @@ It quickly transpired that no coordinating mechanism existed to connect fragment
 </div>
 
 <div class="timeline-item">
-<div class="timeline-date">Months 1–3</div>
+<div class="timeline-date" markdown="0">Months 1–3</div>
 
 ### Scoping and evidence gathering
 
@@ -48,7 +48,7 @@ This evidence base became critical for influencing upwards and bringing strategi
 </div>
 
 <div class="timeline-item">
-<div class="timeline-date">Months 4–6</div>
+<div class="timeline-date" markdown="0">Months 4–6</div>
 
 ### The first roundtable
 
@@ -66,7 +66,7 @@ Critically, the roundtable also revealed the diversity of stakeholders needed: i
 </div>
 
 <div class="timeline-item">
-<div class="timeline-date">Months 7–10</div>
+<div class="timeline-date" markdown="0">Months 7–10</div>
 
 ### Navigating obstacles
 
@@ -82,7 +82,7 @@ Key timelines and milestones began to slip due to unforeseen challenges. I reali
 </div>
 
 <div class="timeline-item">
-<div class="timeline-date">Months 10–14</div>
+<div class="timeline-date" markdown="0">Months 10–14</div>
 
 ### Designing the workshop
 
@@ -105,7 +105,7 @@ Materials produced for the workshop included: a one-page aims sheet, an evidence
 </div>
 
 <div class="timeline-item">
-<div class="timeline-date">Month 15</div>
+<div class="timeline-date" markdown="0">Month 15</div>
 
 ### The workshop
 
@@ -133,7 +133,7 @@ Six structured discussions ran through the day, each building on the previous:
 </div>
 
 <div class="timeline-item">
-<div class="timeline-date">Months 15–18</div>
+<div class="timeline-date" markdown="0">Months 15–18</div>
 
 ### Post-workshop: from outputs to ownership
 
