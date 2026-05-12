@@ -47,7 +47,7 @@ Over approximately 18 months, this initiative moved through a structured sequenc
 5. **Workshop delivery** — bringing together the full spectrum of stakeholders listed above
 6. **Collective ownership** — senior stakeholders agreeing to carry the initiative forward
 
-<div class="stats-row">
+<div class="stats-row" markdown="0">
 <div class="stat"><span class="stat-number">>50</span><span class="stat-label">Stakeholders engaged</span></div>
 <div class="stat"><span class="stat-number">5</span><span class="stat-label">Framework pillars</span></div>
 <div class="stat"><span class="stat-number">7</span><span class="stat-label">Toolkit phases</span></div>

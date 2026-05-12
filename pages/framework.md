@@ -18,7 +18,7 @@ It emerged from structured discussions involving researchers, infrastructure pro
 
 The framework rests on five pillars, each addressing a distinct dimension of the coordination challenge. Three pillars address the enabling conditions (infrastructure, governance, authentication and access), while two address the often-overlooked human dimensions (data ownership and IP, careers and training). Importantly, participants recognised that these pillars are highly interconnected — progress on one often depends on progress on others — and that the people-focused pillars are not secondary to the technical ones.
 
-<div class="diagram-container">
+<div class="diagram-container" markdown="0">
 <svg viewBox="0 0 800 520" xmlns="http://www.w3.org/2000/svg" style="max-width:750px">
   <!-- Base platform -->
   <rect x="50" y="400" width="700" height="60" rx="8" fill="#1a2744"/>
