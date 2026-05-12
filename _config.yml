@@ -1,0 +1,32 @@
+title: "Catalysing a National Biomedical Data Science Solution"
+description: "A toolkit for galvanising communities, bridging institutional silos, and building shared research data science infrastructure and skills"
+baseurl: "/biomedical-data-science-toolkit"
+url: "https://ralitsamadsen.github.io"
+
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+nav:
+  - title: Home
+    url: /
+  - title: The Journey
+    url: /pages/journey
+  - title: The Framework
+    url: /pages/framework
+  - title: The Toolkit
+    url: /pages/toolkit
+  - title: Lessons Learned
+    url: /pages/lessons
+  - title: Resources
+    url: /pages/resources

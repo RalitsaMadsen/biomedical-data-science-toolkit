@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | default: site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="{{ '/' | relative_url }}" class="site-title">Scottish Biomedical Data Science</a>
+      <p class="site-tagline">{{ site.description }}</p>
+    </div>
+  </header>
+
+  <nav class="site-nav">
+    <div class="nav-inner">
+      {% for item in site.nav %}
+        <a href="{{ item.url | relative_url }}" class="nav-link {% if page.url == item.url %}active{% endif %}">{{ item.title }}</a>
+      {% endfor %}
+    </div>
+  </nav>
+
+  <main class="site-content">
+    <div class="content-inner">
+      {{ content }}
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p>This toolkit is shared openly to support researchers and institutions building national research data infrastructure.</p>
+      <p class="footer-meta">Licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> | Built with Jekyll &amp; GitHub Pages using Claude Opus 4.6 | Reviewed and edited by Dr Ralitsa Madsen</p>
+    </div>
+  </footer>
+</body>
+</html>
